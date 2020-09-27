@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## AWS-CDK_boilerplate
 Pakage created for the aws cdk workshop for learning aws-cdk in typescript
 =======
@@ -17,4 +16,3 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
->>>>>>> Lambda/API Gateway handlet and hit counter, Initial commit
